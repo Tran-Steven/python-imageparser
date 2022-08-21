@@ -1,5 +1,5 @@
 # Python-imageparser
-A simple Python script that removes files from a directory, made for use in [League of Wordle](https://github.com/Tran-Steven/leaguewordle) but customizable to fit your own needs.
+A simple Python script that removes or renames files from a directory, made for use in [League of Wordle](https://github.com/Tran-Steven/leaguewordle) but customizable to fit your own needs.
 
 ## file_path 
 Select the file path to your folder with the Directory popup.
